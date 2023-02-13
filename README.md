@@ -1,1 +1,1 @@
-# predicting-gold-s-price
+# predicting gold's price
